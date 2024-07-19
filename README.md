@@ -36,9 +36,9 @@ You will be working with a table named job_data with the following columns:
 # Case Study 2: Investigating Metric Spike
 You will be working with three tables:
 
-users: Contains one row per user, with descriptive information about that user’s account.
-events: Contains one row per event, where an event is an action that a user has taken (e.g., login, messaging, search).
-email_events: Contains events specific to the sending of emails.
+<br>users: Contains one row per user, with descriptive information about that user’s account.
+<br>events: Contains one row per event, where an event is an action that a user has taken (e.g., login, messaging, search).
+<br>email_events: Contains events specific to the sending of emails.<br>
 
 # Tasks:
 
